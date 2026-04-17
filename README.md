@@ -28,8 +28,6 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
 
 ## 💡 About Me
 
-<div align="center">
-
 ```json
 {
   "name": "Manan Mittal",
@@ -84,8 +82,6 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
   ]
 }
 ```
-
-</div>
 
 ---
 
