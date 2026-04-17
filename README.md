@@ -31,16 +31,48 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
 ```json
 {
   "name": "Manan Mittal",
-  "title": "AI/ML Engineer | Full Stack Developer",
-  "degree": "B.Tech in Artificial Intelligence & Machine Learning",
+  "role": "AI/ML Engineer | Full-Stack Developer | Aspiring Game Developer",
+  "education": "B.Tech in Artificial Intelligence & Machine Learning",
   "location": "India",
-  "passion": [
-    "Building intelligent AI solutions",
-    "Full-stack web development",
-    "Game development (future goal)",
-    "Solving real-world problems"
+  "vision": "To build impactful AI-driven systems and eventually create cutting-edge games powered by intelligent technologies",
+  "focus": [
+    "Artificial Intelligence & Machine Learning",
+    "Full-Stack Web Development (MERN)",
+    "Scalable System Design",
+    "Real-World Problem Solving",
+    "Game Development (long-term goal)"
   ],
-  "mindset": "Always learning, always building"
+  "core_stack": [
+    "Python / C / C++ / Java",
+    "React.js / Node.js / Express.js",
+    "FastAPI / REST APIs",
+    "MySQL / Database Design",
+    "AI/ML Models & Data Processing"
+  ],
+  "projects": {
+    "ai_solutions": "Building intelligent applications like FitKaro and AI-powered platforms",
+    "web_apps": "Developing full-stack applications solving real-world use cases",
+    "experimentation": "Exploring new technologies and integrating AI into practical systems"
+  },
+  "strengths": [
+    "Strong problem-solving mindset",
+    "Ability to turn ideas into working products",
+    "Consistent learning and execution",
+    "Balancing AI with full-stack development"
+  ],
+  "currently_learning": [
+    "Advanced Machine Learning & AI Systems",
+    "Cloud & DevOps",
+    "System Design & Scalability",
+    "Game Development with AI"
+  ],
+  "mindset": "Always building, always learning, focused on creating real impact through technology",
+  "open_to": [
+    "AI/ML Engineering Opportunities",
+    "Full-Stack Development Roles",
+    "Innovative Project Collaborations",
+    "Hackathons & Competitive Building"
+  ]
 }
 ```
 
