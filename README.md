@@ -28,6 +28,8 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
 
 ## 💡 About Me
 
+<div align="center">
+
 ```json
 {
   "name": "Manan Mittal",
@@ -35,6 +37,7 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
   "education": "B.Tech in Artificial Intelligence & Machine Learning",
   "location": "India",
   "vision": "To build impactful AI-driven systems and eventually create cutting-edge games powered by intelligent technologies",
+  
   "focus": [
     "Artificial Intelligence & Machine Learning",
     "Full-Stack Web Development (MERN)",
@@ -42,6 +45,7 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
     "Real-World Problem Solving",
     "Game Development (long-term goal)"
   ],
+  
   "core_stack": [
     "Python / C / C++ / Java",
     "React.js / Node.js / Express.js",
@@ -49,24 +53,29 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
     "MySQL / Database Design",
     "AI/ML Models & Data Processing"
   ],
+  
   "projects": {
     "ai_solutions": "Building intelligent applications like FitKaro and AI-powered platforms",
     "web_apps": "Developing full-stack applications solving real-world use cases",
     "experimentation": "Exploring new technologies and integrating AI into practical systems"
   },
+  
   "strengths": [
     "Strong problem-solving mindset",
     "Ability to turn ideas into working products",
     "Consistent learning and execution",
     "Balancing AI with full-stack development"
   ],
+  
   "currently_learning": [
     "Advanced Machine Learning & AI Systems",
     "Cloud & DevOps",
     "System Design & Scalability",
     "Game Development with AI"
   ],
+  
   "mindset": "Always building, always learning, focused on creating real impact through technology",
+  
   "open_to": [
     "AI/ML Engineering Opportunities",
     "Full-Stack Development Roles",
@@ -75,6 +84,8 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
   ]
 }
 ```
+
+</div>
 
 ---
 
