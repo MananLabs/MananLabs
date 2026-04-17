@@ -2,10 +2,7 @@
 
 # Hi, I'm **Manan Mittal** 👋
 
-<video width="100%" height="auto" controls style="border-radius: 10px; margin: 20px 0;">
-  <source src="banner.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Banner](banner.gif)
 
 ```
 Building the future, one line of code at a time.
