@@ -1,199 +1,118 @@
-<div align="center">
+<p align="center">
+  <a href="assets/ascii-portrait.png"><img src="assets/ascii-portrait.gif" alt="Manan Mittal — a photo-derived ASCII portrait revealing in green and cyan. Open for the static portrait."></a>
+</p>
 
-# Hi, I'm **Manan Mittal** 👋
+<h1 align="center">MANAN MITTAL</h1>
 
-![Banner](banner.gif)
+<p align="center">
+  <img src="assets/typing-intro.gif" alt="AI/ML Engineer · Full-Stack Developer · Systems Developer · Aspiring Game Developer">
+</p>
 
-```
-Building the future, one line of code at a time.
-AI Engineer | Full Stack Developer | Game Dev Aspirant
-```
+<p align="center"><strong>Building intelligent systems. Engineering real-world solutions.</strong></p>
 
----
+<p align="center">AI/ML Engineer · Full-Stack Developer<br>Systems Developer · Aspiring Game Developer</p>
 
-## 🎯 What I Do
-
-> Crafting intelligent systems that solve real-world problems through AI/ML and full-stack development. Passionate about innovation, clean code, and turning ideas into reality.
-
----
-
-## 📡 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MananLabs)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+<p align="center"><a href="#about">About</a> · <a href="#technical-expertise">Stack</a> · <a href="#featured-projects">Projects</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a></p>
 
 ---
 
-## 💡 About Me
+## About
 
-```json
-{
-  "name": "Manan Mittal",
-  "role": "AI/ML Engineer | Full-Stack Developer | Aspiring Game Developer",
-  "education": "B.Tech in Artificial Intelligence & Machine Learning",
-  "location": "India",
-  "vision": "To build impactful AI-driven systems and eventually create cutting-edge games powered by intelligent technologies",
-  
-  "focus": [
-    "Artificial Intelligence & Machine Learning",
-    "Full-Stack Web Development (MERN)",
-    "Scalable System Design",
-    "Real-World Problem Solving",
-    "Game Development (long-term goal)"
-  ],
-  
-  "core_stack": [
-    "Python / C / C++ / Java",
-    "React.js / Node.js / Express.js",
-    "FastAPI / REST APIs",
-    "MySQL / Database Design",
-    "AI/ML Models & Data Processing"
-  ],
-  
-  "projects": {
-    "ai_solutions": "Building intelligent applications like FitKaro and AI-powered platforms",
-    "web_apps": "Developing full-stack applications solving real-world use cases",
-    "experimentation": "Exploring new technologies and integrating AI into practical systems"
-  },
-  
-  "strengths": [
-    "Strong problem-solving mindset",
-    "Ability to turn ideas into working products",
-    "Consistent learning and execution",
-    "Balancing AI with full-stack development"
-  ],
-  
-  "currently_learning": [
-    "Advanced Machine Learning & AI Systems",
-    "Cloud & DevOps",
-    "System Design & Scalability",
-    "Game Development with AI"
-  ],
-  
-  "mindset": "Always building, always learning, focused on creating real impact through technology",
-  
-  "open_to": [
-    "AI/ML Engineering Opportunities",
-    "Full-Stack Development Roles",
-    "Innovative Project Collaborations",
-    "Hackathons & Competitive Building"
-  ]
-}
-```
+I’m Manan, focused on AI engineering, full-stack products, and practical enterprise software. My academic background is B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning, at **REVA University, Bengaluru, India**.
 
----
+I enjoy taking ideas from architecture through implementation and deployment: grounding LLMs in useful knowledge, coordinating AI agents, building dependable APIs, and designing systems that can scale.
 
-## 🛠️ Tech Stack
+**Current interests:** LLMs, retrieval-augmented generation, enterprise applications, and scalable systems. Game development is a direction I’m exploring alongside that work.
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Technical expertise
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**⌘ Languages**
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+`Python` · `C` · `C++` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**◇ Frontend**
 
-### 🧠 AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+`React` · `Next.js` · `React Native` · `Tailwind CSS` · `Framer Motion`
 
----
+**⚙ Backend**
 
-## 🚀 Featured Projects
+`Node.js` · `NestJS` · `Flask` · `FastAPI` · `REST APIs`
 
-### 📌 Project 1: [AI-Powered Solution]
-**Tech Stack:** Python • TensorFlow • React • Node.js
-> Brief description of what this project does and its impact.
+**▤ Databases & data platforms**
 
-[View Repository](#) • [Live Demo](#)
+`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase` · `Qdrant`
+
+**✳ AI / ML**
+
+`LLMs` · `RAG` · `Vector Embeddings` · `Sentence Transformers` · `Model Integration` · `AI Agent Orchestration`
+
+**⌁ Infrastructure & tools**
+
+`Git` · `GitHub` · `Docker` · `Linux` · `Cloud Deployment`
+
+## Featured projects
+
+### 01 / LLM — Fundamentals of Power Electronics
+
+Textbook-grounded question answering built around *Fundamentals of Power Electronics*. Document processing, embeddings, and retrieval-augmented generation connect questions to relevant source material.
+
+**Technology focus:** LLM integration · document processing · vector embeddings · RAG
+
+### 02 / VEL AI
+
+An infinite multi-agent AI operating workspace designed to coordinate intelligent agents and workflows.
+
+**Technology focus:** AI agents · multi-agent orchestration · workflow coordination
+
+### 03 / FLOWGRID
+
+An autonomous logistics orchestration platform designed to reduce empty truck miles through intelligent shipment matching, optimization, simulation, and AI-driven disruption recovery.
+
+**Technology focus:** optimization · simulation · AI-driven orchestration
+
+### 04 / GST Reconciliation
+
+A reconciliation solution integrating Zoho Books and GST Portal data to streamline financial reconciliation workflows.
+
+**Integration focus:** Zoho Books · GST Portal data · reconciliation workflows
+
+### 05 / FoxDine
+
+A restaurant management platform connecting QR-based ordering, kitchen workflows, waiter dashboards, and administrative controls.
+
+**Technology focus:** QR-based ordering · operational dashboards · workflow management
+
+### 06 / Overtime Application
+
+An enterprise application for managing overtime workflows and related operational processes.
+
+**Engineering focus:** enterprise applications · overtime workflow management
+
+### 07 / SocialIQ
+
+A social intelligence project. Further implementation details will be added when project documentation is available.
+
+<!-- Project repository URLs, demos, and framework names are intentionally omitted until verified.
+     SocialIQ's scope and technology stack have not been established from available sources. -->
+
+## GitHub activity
+
+[Explore my repositories and contribution history →](https://github.com/MananLabs?tab=repositories)
+
+![GitHub contribution statistics for MananLabs](https://github-readme-stats.vercel.app/api?username=MananLabs&show_icons=true&hide_border=true&bg_color=060c10&title_color=5cf8a4&icon_color=61dcec&text_color=c9d5df&border_radius=12)
+
+![GitHub contribution streak for MananLabs](https://streak-stats.demolab.com/?user=MananLabs&hide_border=true&background=060C10&ring=61DCEC&fire=5CF8A4&currStreakLabel=5CF8A4&sideLabels=C9D5DF&currStreakNum=C9D5DF&sideNums=C9D5DF&dates=91A5B4)
+
+![Most-used public repository languages for MananLabs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananLabs&layout=compact&langs_count=6&hide_border=true&bg_color=060c10&title_color=5cf8a4&text_color=c9d5df&border_radius=12)
+
+<sub>Cards are provided by external services and may be temporarily unavailable. Language statistics describe public repository composition.</sub>
 
 ---
 
-### 📌 Project 2: [Full Stack Application]
-**Tech Stack:** React • Node.js • MySQL • Express
-> Brief description of what this project does and its impact.
+## Connect
 
-[View Repository](#) • [Live Demo](#)
+Interested in AI systems, full-stack engineering, or enterprise software? Let’s connect.
 
----
+[LinkedIn](https://www.linkedin.com/in/manan-mittal1123482/) · [GitHub](https://github.com/MananLabs) · [Email](mailto:mittalmanan81@gmail.com) · [Twitter / X](https://x.com/Manan1123482)
 
-### 📌 Project 3: [ML Model / Data Science]
-**Tech Stack:** Python • Scikit-learn • FastAPI
-> Brief description of what this project does and its impact.
-
-[View Repository](#) • [Live Demo](#)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MananLabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=MananLabs&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MananLabs&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
-## 🎯 Goals & Vision
-
-```
-🔹 Master AI/ML and build production-grade intelligent systems
-🔹 Become a top-tier Full Stack Developer
-🔹 Create innovative game titles
-🔹 Start a tech company that solves real-world problems
-🔹 Contribute to open-source and mentor aspiring developers
-```
-
----
-
-## 📚 Currently Learning
-
-- Advanced Deep Learning & LLMs
-- System Design & Scalability
-- Game Development with Unity/Unreal
-- Cloud Architecture (AWS, GCP)
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always open to exciting projects, collaborations, and opportunities to learn. Whether it's AI/ML, web development, or game dev—let's build something amazing together!
-
-<div align="center">
-
-**[Reach Out](#)** • **[View My Work](https://github.com/MananLabs)** • **[Let's Talk](#)**
-
----
-
-```
-💡 "Code is poetry written for machines and humans alike."
-```
-
-Made with ❤️ by Manan Mittal
-
-</div>
+<p align="center"><strong>Always building. Always learning. Always engineering.</strong></p>
