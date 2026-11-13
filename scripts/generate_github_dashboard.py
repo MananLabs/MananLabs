@@ -14,6 +14,7 @@ import json
 import os
 from pathlib import Path
 import urllib.request
+import urllib.error
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'assets' / 'dashboard'
@@ -60,11 +61,22 @@ def graphql(query, variables):
         data=json.dumps({'query': query, 'variables': variables}).encode(),
         headers={'Authorization': f'Bearer {token}', 'Content-Type':'application/json',
                  'User-Agent':'MananLabs-profile-dashboard'})
-    with urllib.request.urlopen(req, timeout=45) as response:
-        payload = json.load(response)
+    try:
+        with urllib.request.urlopen(req, timeout=45) as response:
+            payload = json.load(response)
+    except urllib.error.HTTPError as error:
+        try:
+            detail = str(json.load(error).get('message', error.reason))
+        except (ValueError, AttributeError):
+            detail = str(error.reason)
+        detail = detail.replace(token, '[redacted]')
+        raise RuntimeError(f'GitHub API HTTP {error.code}: {detail}. Existing cards preserved.') from None
+    except urllib.error.URLError as error:
+        raise RuntimeError(f'GitHub API connection failed: {error.reason}. Existing cards preserved.') from None
     if payload.get('errors'):
-        # Avoid logging response data or authentication details.
-        raise RuntimeError('GitHub GraphQL query failed; existing cards were preserved.')
+        messages = '; '.join(str(e.get('message', 'Unknown GraphQL error'))
+                             for e in payload['errors']).replace(token, '[redacted]')
+        raise RuntimeError(f'GitHub GraphQL: {messages}. Existing cards preserved.')
     user = payload.get('data', {}).get('user')
     if not user:
         raise RuntimeError('GitHub user not found; existing cards were preserved.')

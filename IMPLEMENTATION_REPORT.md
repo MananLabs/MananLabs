@@ -4,7 +4,7 @@ The existing profile has been refined in place: centered introduction, emoji hea
 
 ## Files and visual components
 
-- Updated `README.md`: original-style introduction; branded social links; two-sentence About Me; six badge categories; ten compact project entries; Odoo experience; vertically stacked dashboard; contribution sections; goals and animated footer.
+- Updated `README.md`: original-style introduction; branded social links; one-line degree/location introduction; six badge categories; ten one-line project bullets; Odoo experience; vertically stacked dashboard; contribution sections; goals and animated footer.
 - Updated `scripts/generate_ascii_portrait.py` and `assets/ascii-portrait.gif`: slower photo-derived reveal. The same generator also creates the typing GIF, scan accent, footer GIF, and static portrait fallback.
 - Added `assets/terminal-accent.gif` and `assets/coding-footer.gif`.
 - Added `assets/dashboard/{overview,streak,languages,activity,milestones}.svg` and `assets/contribution-snake.svg`. These currently contain explicit first-sync status messages, **not fabricated data or a synthetic contribution graph**.
@@ -52,7 +52,7 @@ After **you** publish these files to `MananLabs/MananLabs`:
 
 Generation runs with `contents: read`; only publishing receives `contents: write`. The generator checkout does not persist credentials. The workflow is restricted to `MananLabs/MananLabs`, uses concurrency control, and does not run on pull requests. If GitHub policy or branch protection blocks bot pushes, allow this workflow's scoped updates or review/publish the generated artifact manually. Scheduled workflows in inactive public repositories may need to be re-enabled through GitHub.
 
-Inspect failed generation steps and warnings if a card remains on setup status. A failed dashboard or snake refresh retains that component's previous file; successful components can still publish. No fake snake has been generated locally. This workflow has **not been run on GitHub** in this session, so token/API behavior and end-to-end publication still require the first real run.
+Inspect failed generation steps and warnings if a card remains on setup status. A failed dashboard or snake refresh leaves published assets unchanged; the workflow now fails visibly and skips publishing if either generation step fails. No fake snake has been generated locally. This workflow has **not been run on GitHub** in this session, so token/API behavior and end-to-end publication still require the first real run.
 
 Reference: [snk's documented SVG action and palette options](https://github.com/Platane/snk#usage), [GitHub token permissions](https://docs.github.com/en/actions/tutorials/authenticate-with-github_token).
 
@@ -68,7 +68,7 @@ Reference: [snk's documented SVG action and palette options](https://github.com/
 
 ## Verification and mobile preview
 
-- Seven offline tests pass: streak handling, missing dates, empty data, repository pagination, safe SVG rendering, API-failure preservation, and snake normalization without removing its animation.
+- Eight offline tests pass (including actionable, token-redacted GraphQL errors): streak handling, missing dates, empty data, repository pagination, safe SVG rendering, API-failure preservation, and snake normalization without removing its animation.
 - Workflow YAML parses correctly; trigger names, account identity, artifact paths, and separate read/write permissions were inspected. No live Actions run was performed; `actionlint` is unavailable.
 - All local links/assets exist; SVGs parse; four GIFs decode, have distinct frames, and loop. The original JPEG's SHA-256 remains `ba34d0a5361db85d38b62f186fc96c4e5a135eac8a389134952debf2b6de4e04`.
 - README contains no scripts, custom CSS, iframes, tables, or fixed-width layout attributes. Markdown/HTML wrappers balance. Badge URLs and repository/contact URL syntax are valid. `git diff --check` passes.
@@ -85,3 +85,17 @@ PYTHONDONTWRITEBYTECODE=1 python -m unittest discover -s scripts -p 'test_*.py' 
 ```
 
 `generate_ascii_portrait.py --help` lists crop, font, output, and character-column options. The default normalized crop is specific to this photograph. The dashboard generator uses only Python's standard library and takes `GITHUB_TOKEN` from the environment; never place tokens in the README or script.
+
+## Follow-up: setup cards still showing
+
+The supplied live-profile screenshot confirms the setup SVGs are still being served. It does not identify whether the cause is API generation, artifact publication, a different workflow, or image caching. Attempts to read the actual run through `gh run list` failed because this environment cannot connect to api.github.com; the run URL/log is still needed for a confirmed diagnosis.
+
+Corrected a local workflow problem: both generators previously used `continue-on-error`, which could leave an overall green run while publishing unchanged setup cards. Generation failures now fail the workflow and block publication. GraphQL and HTTP errors now include GitHub's actionable error message, with token values redacted, instead of a generic failure.
+
+Projects are now grouped bullet lists with short descriptions. Removed repeated per-project badge rows; the main technology badge section remains intact. After publishing these fixes, rerun Profile visuals and inspect the failing step if any. The live statistics are not claimed fixed without a successful remote run.
+
+## Follow-up: centered, compact introduction and skills
+
+Centered What I Do, contact links, About Me, and all technology groups using simple GitHub-compatible HTML. Replaced overlapping introductory prose with one focus line and one education line; removed dividers between these short introductory blocks. Skill headings and badge rows now share a paragraph to reduce vertical gaps. Twenty-two primary badges remain visible; eight additional technologies are available under a native “More technologies” disclosure. Contact links, project bullets, and animations are preserved.
+
+Re-rendered the complete layout approximation at 375px and 896px: no horizontal overflow. WeasyPrint does not model native disclosure interactivity, so the actual collapsed browser layout should be shorter than the static approximation. Live GitHub rendering has not been independently checked.

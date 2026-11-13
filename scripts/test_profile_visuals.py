@@ -14,6 +14,16 @@ def day(d, count):
 
 
 class DashboardTests(unittest.TestCase):
+    def test_graphql_failure_explains_cause_without_exposing_token(self):
+        from io import BytesIO
+        response=BytesIO(b'{"errors":[{"message":"Field example is unavailable test-secret"}]}')
+        with (patch.dict('os.environ',{'GITHUB_TOKEN':'test-secret'}),
+              patch.object(dashboard.urllib.request,'urlopen',return_value=response)):
+            with self.assertRaises(RuntimeError) as caught:
+                dashboard.graphql('query {}',{})
+        self.assertIn('Field example is unavailable',str(caught.exception))
+        self.assertNotIn('test-secret',str(caught.exception))
+
     def test_today_may_still_be_empty(self):
         days=[day('2026-11-11',1),day('2026-11-12',2),day('2026-11-13',0)]
         self.assertEqual(dashboard.streaks(days,date(2026,11,13)),(2,2))

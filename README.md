@@ -19,76 +19,89 @@ AI Engineer | Full Stack Developer | Game Dev Aspirant
 
 ---
 
+<div align="center">
+
 ## 🎯 What I Do
 
-I build intelligent applications, full-stack products, and enterprise workflows—from architecture to implementation and deployment.
+**AI systems · Full-stack products · Enterprise software**
 
----
-
-## 📡 Connect With Me
+### 📡 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111820?style=flat&logo=linkedin&logoColor=61dcec&labelColor=111820)](https://www.linkedin.com/in/manan-mittal1123482/)
 [![GitHub](https://img.shields.io/badge/GitHub-111820?style=flat&logo=github&logoColor=5cf8a4&labelColor=111820)](https://github.com/MananLabs)
 [![Email](https://img.shields.io/badge/Email-111820?style=flat&logo=gmail&logoColor=ea4335&labelColor=111820)](mailto:mittalmanan81@gmail.com)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-111820?style=flat&logo=x&logoColor=a085de&labelColor=111820)](https://x.com/Manan1123482)
 
+
+### 👨‍💻 About Me
+
+Pursuing **B.Tech CSE (AI & ML)** at **REVA University, Bengaluru**.
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
-
-I’m pursuing B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning, at **REVA University, Bengaluru**. My interests span AI/ML and LLM engineering, full-stack development, enterprise software, system architecture, and game development.
-
----
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
+<p><strong>💻 Languages</strong><br>
+<img alt="Python" src="https://img.shields.io/badge/Python-111820?style=flat&amp;logo=python&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111820?style=flat&amp;logo=javascript&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111820?style=flat&amp;logo=typescript&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-111820?style=flat&amp;logo=postgresql&amp;logoColor=5cf8a4&amp;labelColor=111820">
+</p>
 
-![Python](https://img.shields.io/badge/Python-111820?style=flat&logo=python&logoColor=5cf8a4&labelColor=111820)
-![C](https://img.shields.io/badge/C-111820?style=flat&logo=c&logoColor=5cf8a4&labelColor=111820)
-![C++](https://img.shields.io/badge/C%2B%2B-111820?style=flat&logo=cplusplus&logoColor=5cf8a4&labelColor=111820)
-![Java](https://img.shields.io/badge/Java-111820?style=flat&logo=openjdk&logoColor=5cf8a4&labelColor=111820)
-![JavaScript](https://img.shields.io/badge/JavaScript-111820?style=flat&logo=javascript&logoColor=5cf8a4&labelColor=111820)
-![TypeScript](https://img.shields.io/badge/TypeScript-111820?style=flat&logo=typescript&logoColor=5cf8a4&labelColor=111820)
-![SQL](https://img.shields.io/badge/SQL-111820?style=flat&logo=postgresql&logoColor=5cf8a4&labelColor=111820)
+<p><strong>🎨 Frontend</strong><br>
+<img alt="React" src="https://img.shields.io/badge/React-111820?style=flat&amp;logo=react&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-111820?style=flat&amp;logo=nextdotjs&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-111820?style=flat&amp;logo=react&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-111820?style=flat&amp;logo=tailwindcss&amp;logoColor=61dcec&amp;labelColor=111820">
+</p>
 
-**🎨 Frontend**
+<p><strong>⚙️ Backend</strong><br>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-111820?style=flat&amp;logo=nodedotjs&amp;logoColor=a085de&amp;labelColor=111820">
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-111820?style=flat&amp;logo=nestjs&amp;logoColor=a085de&amp;labelColor=111820">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-111820?style=flat&amp;logo=flask&amp;logoColor=a085de&amp;labelColor=111820">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111820?style=flat&amp;logo=fastapi&amp;logoColor=a085de&amp;labelColor=111820">
+</p>
 
-![React](https://img.shields.io/badge/React-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820)
-![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820)
-![React Native](https://img.shields.io/badge/React%20Native-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111820?style=flat&logo=tailwindcss&logoColor=61dcec&labelColor=111820)
+<p><strong>🗄️ Databases</strong><br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111820?style=flat&amp;logo=postgresql&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111820?style=flat&amp;logo=mongodb&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-111820?style=flat&amp;logo=supabase&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-111820?style=flat&amp;logo=qdrant&amp;logoColor=5cf8a4&amp;labelColor=111820">
+</p>
 
-**⚙️ Backend**
+<p><strong>🧠 AI / ML</strong><br>
+<img alt="LLMs" src="https://img.shields.io/badge/LLMs-111820?style=flat&amp;logo=&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="RAG" src="https://img.shields.io/badge/RAG-111820?style=flat&amp;logo=&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence%20Transformers-111820?style=flat&amp;logo=huggingface&amp;logoColor=61dcec&amp;labelColor=111820">
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-111820?style=flat&logo=nodedotjs&logoColor=a085de&labelColor=111820)
-![NestJS](https://img.shields.io/badge/NestJS-111820?style=flat&logo=nestjs&logoColor=a085de&labelColor=111820)
-![Flask](https://img.shields.io/badge/Flask-111820?style=flat&logo=flask&logoColor=a085de&labelColor=111820)
-![FastAPI](https://img.shields.io/badge/FastAPI-111820?style=flat&logo=fastapi&logoColor=a085de&labelColor=111820)
+<p><strong>🔧 Tools</strong><br>
+<img alt="Git" src="https://img.shields.io/badge/Git-111820?style=flat&amp;logo=git&amp;logoColor=a085de&amp;labelColor=111820">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-111820?style=flat&amp;logo=docker&amp;logoColor=a085de&amp;labelColor=111820">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-111820?style=flat&amp;logo=linux&amp;logoColor=a085de&amp;labelColor=111820">
+</p>
 
-**🗄️ Databases**
+<details>
+<summary>More technologies</summary>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=flat&logo=postgresql&logoColor=5cf8a4&labelColor=111820)
-![MySQL](https://img.shields.io/badge/MySQL-111820?style=flat&logo=mysql&logoColor=5cf8a4&labelColor=111820)
-![MongoDB](https://img.shields.io/badge/MongoDB-111820?style=flat&logo=mongodb&logoColor=5cf8a4&labelColor=111820)
-![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=5cf8a4&labelColor=111820)
-![Firebase](https://img.shields.io/badge/Firebase-111820?style=flat&logo=firebase&logoColor=5cf8a4&labelColor=111820)
-![Qdrant](https://img.shields.io/badge/Qdrant-111820?style=flat&logo=qdrant&logoColor=5cf8a4&labelColor=111820)
+<p>
+<img alt="C" src="https://img.shields.io/badge/C-111820?style=flat&amp;logo=c&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111820?style=flat&amp;logo=cplusplus&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="Java" src="https://img.shields.io/badge/Java-111820?style=flat&amp;logo=openjdk&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-111820?style=flat&amp;logo=mysql&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-111820?style=flat&amp;logo=firebase&amp;logoColor=5cf8a4&amp;labelColor=111820">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-111820?style=flat&amp;logo=tensorflow&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-111820?style=flat&amp;logo=scikitlearn&amp;logoColor=61dcec&amp;labelColor=111820">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-111820?style=flat&amp;logo=github&amp;logoColor=a085de&amp;labelColor=111820">
+</p>
 
-**🧠 AI / ML**
+</details>
 
-![LLMs](https://img.shields.io/badge/LLMs-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-![RAG](https://img.shields.io/badge/RAG-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111820?style=flat&logo=tensorflow&logoColor=61dcec&labelColor=111820)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111820?style=flat&logo=scikitlearn&logoColor=61dcec&labelColor=111820)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-111820?style=flat&logo=huggingface&logoColor=61dcec&labelColor=111820)
-
-**🔧 Tools**
-
-![Git](https://img.shields.io/badge/Git-111820?style=flat&logo=git&logoColor=a085de&labelColor=111820)
-![GitHub](https://img.shields.io/badge/GitHub-111820?style=flat&logo=github&logoColor=a085de&labelColor=111820)
-![Docker](https://img.shields.io/badge/Docker-111820?style=flat&logo=docker&logoColor=a085de&labelColor=111820)
-![Linux](https://img.shields.io/badge/Linux-111820?style=flat&logo=linux&logoColor=a085de&labelColor=111820)
+</div>
 
 ---
 
@@ -96,51 +109,23 @@ I’m pursuing B.Tech in Computer Science and Engineering, specializing in Artif
 
 ### 🧠 AI & Intelligent Systems
 
-**📚 Power Electronics LLM** — Textbook-grounded question answering over *Fundamentals of Power Electronics* using embeddings and RAG.
-
-![LLMs](https://img.shields.io/badge/LLMs-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![RAG](https://img.shields.io/badge/RAG-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**🩺 DDXPlus Medical Diagnostic Support System** — Diagnostic-support project using the DDXPlus dataset, embeddings, and vector retrieval.
-
-![Flask](https://img.shields.io/badge/Flask-111820?style=flat&logo=flask&logoColor=61dcec&labelColor=111820) ![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=61dcec&labelColor=111820) ![Qdrant](https://img.shields.io/badge/Qdrant-111820?style=flat&logo=qdrant&logoColor=61dcec&labelColor=111820)
-
-**🌿 [CareNest](https://github.com/MananLabs/Dementia_Care)** — AI-powered dementia care with family and caregiver workflows.
-
-![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=flat&logo=postgresql&logoColor=61dcec&labelColor=111820) ![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Supabase Storage](https://img.shields.io/badge/Supabase%20Storage-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**🚚 [FLOWGRID](https://github.com/MananLabs/build-flowgrid-logistics-platform)** — Logistics orchestration with shipment matching, route optimization, simulation, and simulated live tracking.
-
-![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![FastAPI](https://img.shields.io/badge/FastAPI-111820?style=flat&logo=fastapi&logoColor=61dcec&labelColor=111820) ![OR-Tools](https://img.shields.io/badge/OR--Tools-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**💡 SocialIQ** — An AI-powered social intelligence project.
-
-![AI](https://img.shields.io/badge/AI-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+- **📚 Power Electronics LLM** — Textbook Q&A with embeddings and RAG.
+- **🩺 DDXPlus** — Diagnostic support using embeddings and vector retrieval.
+- **🌿 [CareNest](https://github.com/MananLabs/Dementia_Care)** — AI-assisted dementia care and caregiver workflows.
+- **🚚 [FLOWGRID](https://github.com/MananLabs/build-flowgrid-logistics-platform)** — Shipment matching, route optimization, and simulated tracking.
+- **💡 SocialIQ** — AI-powered social intelligence.
 
 ### ⚡ Full-Stack & Product Engineering
 
-**🧩 VEL AI** — An infinite multi-agent AI operating workspace for coordinating agents and workflows.
-
-![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![NestJS](https://img.shields.io/badge/NestJS-111820?style=flat&logo=nestjs&logoColor=61dcec&labelColor=111820) ![React Flow](https://img.shields.io/badge/React%20Flow-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Zustand](https://img.shields.io/badge/Zustand-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**🍽️ FoxDine** — Restaurant management with QR ordering, kitchen dashboards, waiter workflows, and administration.
-
-![QR Ordering](https://img.shields.io/badge/QR%20Ordering-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**✈️ [Airway](https://github.com/MananLabs/Airway)** — An airport ride-sharing prototype for Mumbai arrivals.
-
-![React Native](https://img.shields.io/badge/React%20Native-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820) ![Expo](https://img.shields.io/badge/Expo-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=61dcec&labelColor=111820)
+- **🧩 VEL AI** — Multi-agent workspace built with Next.js and NestJS.
+- **🍽️ FoxDine** — QR ordering and restaurant operations.
+- **✈️ [Airway](https://github.com/MananLabs/Airway)** — Mumbai airport ride-sharing prototype in React Native.
 
 ### 🏢 Enterprise & Business Systems
 
-**🧾 GST Reconciliation** — Financial data matching and reconciliation between Zoho Books and GST Portal data.
-
-![Zoho Books](https://img.shields.io/badge/Zoho%20Books-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![GST Portal](https://img.shields.io/badge/GST%20Portal-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**⏱️ Overtime Application** — An enterprise overtime management application.
-
-![Enterprise Software](https://img.shields.io/badge/Enterprise%20Software-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
-
-**🔗 Odoo CRM / ERP** — Experience with CRM stages, activity workflows, and spreadsheet imports.
+- **🧾 GST Reconciliation** — Zoho Books ↔ GST Portal data matching.
+- **⏱️ Overtime Application** — Enterprise overtime management.
+- **🔗 Odoo CRM / ERP** — CRM workflows, configuration, and spreadsheet imports.
 
 ---
 

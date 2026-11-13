@@ -33,13 +33,11 @@ jobs:
           python-version: '3.12'
       - name: Refresh real GitHub dashboard
         id: dashboard
-        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_github_dashboard.py --username MananLabs
       - name: Generate snake from MananLabs contributions
         id: snake
-        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MananLabs
@@ -50,9 +48,6 @@ jobs:
       - name: Prepare mobile-sized snake
         if: steps.snake.outcome == 'success'
         run: python scripts/normalize_snake.py snake-output/contribution-snake.svg assets/contribution-snake.svg
-      - name: Report refresh failures
-        if: steps.dashboard.outcome == 'failure' || steps.snake.outcome == 'failure'
-        run: echo '::warning::A refresh failed. Previous local assets were retained for that component. Check the generation steps.'
       - uses: actions/upload-artifact@v4
         with:
           name: profile-visuals
