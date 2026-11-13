@@ -1,118 +1,205 @@
-<p align="center">
-  <a href="assets/ascii-portrait.png"><img src="assets/ascii-portrait.gif" alt="Manan Mittal — a photo-derived ASCII portrait revealing in green and cyan. Open for the static portrait."></a>
-</p>
+<div align="center">
 
-<h1 align="center">MANAN MITTAL</h1>
+[![Manan Mittal — animated ASCII portrait from my photograph](assets/ascii-portrait.gif)](assets/ascii-portrait.png)
 
-<p align="center">
-  <img src="assets/typing-intro.gif" alt="AI/ML Engineer · Full-Stack Developer · Systems Developer · Aspiring Game Developer">
-</p>
+# Hi, I'm **Manan Mittal** 👋
 
-<p align="center"><strong>Building intelligent systems. Engineering real-world solutions.</strong></p>
+![Animated engineering roles](assets/typing-intro.gif)
 
-<p align="center">AI/ML Engineer · Full-Stack Developer<br>Systems Developer · Aspiring Game Developer</p>
+```text
+Building the future,
+one line of code at a time.
+```
 
-<p align="center"><a href="#about">About</a> · <a href="#technical-expertise">Stack</a> · <a href="#featured-projects">Projects</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a></p>
+AI Engineer | Full Stack Developer | Game Dev Aspirant
 
----
+![Terminal scan accent](assets/terminal-accent.gif)
 
-## About
-
-I’m Manan, focused on AI engineering, full-stack products, and practical enterprise software. My academic background is B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning, at **REVA University, Bengaluru, India**.
-
-I enjoy taking ideas from architecture through implementation and deployment: grounding LLMs in useful knowledge, coordinating AI agents, building dependable APIs, and designing systems that can scale.
-
-**Current interests:** LLMs, retrieval-augmented generation, enterprise applications, and scalable systems. Game development is a direction I’m exploring alongside that work.
-
-## Technical expertise
-
-**⌘ Languages**
-
-`Python` · `C` · `C++` · `Java` · `JavaScript` · `TypeScript` · `SQL`
-
-**◇ Frontend**
-
-`React` · `Next.js` · `React Native` · `Tailwind CSS` · `Framer Motion`
-
-**⚙ Backend**
-
-`Node.js` · `NestJS` · `Flask` · `FastAPI` · `REST APIs`
-
-**▤ Databases & data platforms**
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase` · `Qdrant`
-
-**✳ AI / ML**
-
-`LLMs` · `RAG` · `Vector Embeddings` · `Sentence Transformers` · `Model Integration` · `AI Agent Orchestration`
-
-**⌁ Infrastructure & tools**
-
-`Git` · `GitHub` · `Docker` · `Linux` · `Cloud Deployment`
-
-## Featured projects
-
-### 01 / LLM — Fundamentals of Power Electronics
-
-Textbook-grounded question answering built around *Fundamentals of Power Electronics*. Document processing, embeddings, and retrieval-augmented generation connect questions to relevant source material.
-
-**Technology focus:** LLM integration · document processing · vector embeddings · RAG
-
-### 02 / VEL AI
-
-An infinite multi-agent AI operating workspace designed to coordinate intelligent agents and workflows.
-
-**Technology focus:** AI agents · multi-agent orchestration · workflow coordination
-
-### 03 / FLOWGRID
-
-An autonomous logistics orchestration platform designed to reduce empty truck miles through intelligent shipment matching, optimization, simulation, and AI-driven disruption recovery.
-
-**Technology focus:** optimization · simulation · AI-driven orchestration
-
-### 04 / GST Reconciliation
-
-A reconciliation solution integrating Zoho Books and GST Portal data to streamline financial reconciliation workflows.
-
-**Integration focus:** Zoho Books · GST Portal data · reconciliation workflows
-
-### 05 / FoxDine
-
-A restaurant management platform connecting QR-based ordering, kitchen workflows, waiter dashboards, and administrative controls.
-
-**Technology focus:** QR-based ordering · operational dashboards · workflow management
-
-### 06 / Overtime Application
-
-An enterprise application for managing overtime workflows and related operational processes.
-
-**Engineering focus:** enterprise applications · overtime workflow management
-
-### 07 / SocialIQ
-
-A social intelligence project. Further implementation details will be added when project documentation is available.
-
-<!-- Project repository URLs, demos, and framework names are intentionally omitted until verified.
-     SocialIQ's scope and technology stack have not been established from available sources. -->
-
-## GitHub activity
-
-[Explore my repositories and contribution history →](https://github.com/MananLabs?tab=repositories)
-
-![GitHub contribution statistics for MananLabs](https://github-readme-stats.vercel.app/api?username=MananLabs&show_icons=true&hide_border=true&bg_color=060c10&title_color=5cf8a4&icon_color=61dcec&text_color=c9d5df&border_radius=12)
-
-![GitHub contribution streak for MananLabs](https://streak-stats.demolab.com/?user=MananLabs&hide_border=true&background=060C10&ring=61DCEC&fire=5CF8A4&currStreakLabel=5CF8A4&sideLabels=C9D5DF&currStreakNum=C9D5DF&sideNums=C9D5DF&dates=91A5B4)
-
-![Most-used public repository languages for MananLabs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananLabs&layout=compact&langs_count=6&hide_border=true&bg_color=060c10&title_color=5cf8a4&text_color=c9d5df&border_radius=12)
-
-<sub>Cards are provided by external services and may be temporarily unavailable. Language statistics describe public repository composition.</sub>
+</div>
 
 ---
 
-## Connect
+## 🎯 What I Do
 
-Interested in AI systems, full-stack engineering, or enterprise software? Let’s connect.
+I build intelligent applications, full-stack products, and enterprise workflows—from architecture to implementation and deployment.
 
-[LinkedIn](https://www.linkedin.com/in/manan-mittal1123482/) · [GitHub](https://github.com/MananLabs) · [Email](mailto:mittalmanan81@gmail.com) · [Twitter / X](https://x.com/Manan1123482)
+---
 
-<p align="center"><strong>Always building. Always learning. Always engineering.</strong></p>
+## 📡 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111820?style=flat&logo=linkedin&logoColor=61dcec&labelColor=111820)](https://www.linkedin.com/in/manan-mittal1123482/)
+[![GitHub](https://img.shields.io/badge/GitHub-111820?style=flat&logo=github&logoColor=5cf8a4&labelColor=111820)](https://github.com/MananLabs)
+[![Email](https://img.shields.io/badge/Email-111820?style=flat&logo=gmail&logoColor=ea4335&labelColor=111820)](mailto:mittalmanan81@gmail.com)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-111820?style=flat&logo=x&logoColor=a085de&labelColor=111820)](https://x.com/Manan1123482)
+
+---
+
+## 👨‍💻 About Me
+
+I’m pursuing B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning, at **REVA University, Bengaluru**. My interests span AI/ML and LLM engineering, full-stack development, enterprise software, system architecture, and game development.
+
+---
+
+## 🛠️ Tech Stack
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-111820?style=flat&logo=python&logoColor=5cf8a4&labelColor=111820)
+![C](https://img.shields.io/badge/C-111820?style=flat&logo=c&logoColor=5cf8a4&labelColor=111820)
+![C++](https://img.shields.io/badge/C%2B%2B-111820?style=flat&logo=cplusplus&logoColor=5cf8a4&labelColor=111820)
+![Java](https://img.shields.io/badge/Java-111820?style=flat&logo=openjdk&logoColor=5cf8a4&labelColor=111820)
+![JavaScript](https://img.shields.io/badge/JavaScript-111820?style=flat&logo=javascript&logoColor=5cf8a4&labelColor=111820)
+![TypeScript](https://img.shields.io/badge/TypeScript-111820?style=flat&logo=typescript&logoColor=5cf8a4&labelColor=111820)
+![SQL](https://img.shields.io/badge/SQL-111820?style=flat&logo=postgresql&logoColor=5cf8a4&labelColor=111820)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820)
+![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820)
+![React Native](https://img.shields.io/badge/React%20Native-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111820?style=flat&logo=tailwindcss&logoColor=61dcec&labelColor=111820)
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-111820?style=flat&logo=nodedotjs&logoColor=a085de&labelColor=111820)
+![NestJS](https://img.shields.io/badge/NestJS-111820?style=flat&logo=nestjs&logoColor=a085de&labelColor=111820)
+![Flask](https://img.shields.io/badge/Flask-111820?style=flat&logo=flask&logoColor=a085de&labelColor=111820)
+![FastAPI](https://img.shields.io/badge/FastAPI-111820?style=flat&logo=fastapi&logoColor=a085de&labelColor=111820)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=flat&logo=postgresql&logoColor=5cf8a4&labelColor=111820)
+![MySQL](https://img.shields.io/badge/MySQL-111820?style=flat&logo=mysql&logoColor=5cf8a4&labelColor=111820)
+![MongoDB](https://img.shields.io/badge/MongoDB-111820?style=flat&logo=mongodb&logoColor=5cf8a4&labelColor=111820)
+![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=5cf8a4&labelColor=111820)
+![Firebase](https://img.shields.io/badge/Firebase-111820?style=flat&logo=firebase&logoColor=5cf8a4&labelColor=111820)
+![Qdrant](https://img.shields.io/badge/Qdrant-111820?style=flat&logo=qdrant&logoColor=5cf8a4&labelColor=111820)
+
+**🧠 AI / ML**
+
+![LLMs](https://img.shields.io/badge/LLMs-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+![RAG](https://img.shields.io/badge/RAG-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111820?style=flat&logo=tensorflow&logoColor=61dcec&labelColor=111820)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111820?style=flat&logo=scikitlearn&logoColor=61dcec&labelColor=111820)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-111820?style=flat&logo=huggingface&logoColor=61dcec&labelColor=111820)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-111820?style=flat&logo=git&logoColor=a085de&labelColor=111820)
+![GitHub](https://img.shields.io/badge/GitHub-111820?style=flat&logo=github&logoColor=a085de&labelColor=111820)
+![Docker](https://img.shields.io/badge/Docker-111820?style=flat&logo=docker&logoColor=a085de&labelColor=111820)
+![Linux](https://img.shields.io/badge/Linux-111820?style=flat&logo=linux&logoColor=a085de&labelColor=111820)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI & Intelligent Systems
+
+**📚 Power Electronics LLM** — Textbook-grounded question answering over *Fundamentals of Power Electronics* using embeddings and RAG.
+
+![LLMs](https://img.shields.io/badge/LLMs-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![RAG](https://img.shields.io/badge/RAG-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**🩺 DDXPlus Medical Diagnostic Support System** — Diagnostic-support project using the DDXPlus dataset, embeddings, and vector retrieval.
+
+![Flask](https://img.shields.io/badge/Flask-111820?style=flat&logo=flask&logoColor=61dcec&labelColor=111820) ![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=61dcec&labelColor=111820) ![Qdrant](https://img.shields.io/badge/Qdrant-111820?style=flat&logo=qdrant&logoColor=61dcec&labelColor=111820)
+
+**🌿 [CareNest](https://github.com/MananLabs/Dementia_Care)** — AI-powered dementia care with family and caregiver workflows.
+
+![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=flat&logo=postgresql&logoColor=61dcec&labelColor=111820) ![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Supabase Storage](https://img.shields.io/badge/Supabase%20Storage-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**🚚 [FLOWGRID](https://github.com/MananLabs/build-flowgrid-logistics-platform)** — Logistics orchestration with shipment matching, route optimization, simulation, and simulated live tracking.
+
+![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![FastAPI](https://img.shields.io/badge/FastAPI-111820?style=flat&logo=fastapi&logoColor=61dcec&labelColor=111820) ![OR-Tools](https://img.shields.io/badge/OR--Tools-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**💡 SocialIQ** — An AI-powered social intelligence project.
+
+![AI](https://img.shields.io/badge/AI-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+### ⚡ Full-Stack & Product Engineering
+
+**🧩 VEL AI** — An infinite multi-agent AI operating workspace for coordinating agents and workflows.
+
+![Next.js](https://img.shields.io/badge/Next.js-111820?style=flat&logo=nextdotjs&logoColor=61dcec&labelColor=111820) ![NestJS](https://img.shields.io/badge/NestJS-111820?style=flat&logo=nestjs&logoColor=61dcec&labelColor=111820) ![React Flow](https://img.shields.io/badge/React%20Flow-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Zustand](https://img.shields.io/badge/Zustand-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**🍽️ FoxDine** — Restaurant management with QR ordering, kitchen dashboards, waiter workflows, and administration.
+
+![QR Ordering](https://img.shields.io/badge/QR%20Ordering-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**✈️ [Airway](https://github.com/MananLabs/Airway)** — An airport ride-sharing prototype for Mumbai arrivals.
+
+![React Native](https://img.shields.io/badge/React%20Native-111820?style=flat&logo=react&logoColor=61dcec&labelColor=111820) ![Expo](https://img.shields.io/badge/Expo-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![Supabase](https://img.shields.io/badge/Supabase-111820?style=flat&logo=supabase&logoColor=61dcec&labelColor=111820)
+
+### 🏢 Enterprise & Business Systems
+
+**🧾 GST Reconciliation** — Financial data matching and reconciliation between Zoho Books and GST Portal data.
+
+![Zoho Books](https://img.shields.io/badge/Zoho%20Books-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820) ![GST Portal](https://img.shields.io/badge/GST%20Portal-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**⏱️ Overtime Application** — An enterprise overtime management application.
+
+![Enterprise Software](https://img.shields.io/badge/Enterprise%20Software-111820?style=flat&logo=&logoColor=61dcec&labelColor=111820)
+
+**🔗 Odoo CRM / ERP** — Experience with CRM stages, activity workflows, and spreadsheet imports.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub overview: stars, commits, pull requests, issues, and contributions](assets/dashboard/overview.svg)
+
+![Contribution streak: total contributions, current streak, and longest streak](assets/dashboard/streak.svg)
+
+![Most-used languages with percentage distribution](assets/dashboard/languages.svg)
+
+[View my GitHub activity](https://github.com/MananLabs)
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+![Contribution activity graph](assets/dashboard/activity.svg)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Animated snake generated from MananLabs contributions](assets/contribution-snake.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Account milestones derived from real public GitHub data](assets/dashboard/milestones.svg)
+
+</div>
+
+<sub>Dashboard images refresh through GitHub Actions; until the first run, they show setup status. Milestones are custom data summaries, not official GitHub achievement badges. <a href="IMPLEMENTATION_REPORT.md#enable-dashboard-and-snake">Setup details</a>.</sub>
+
+---
+
+## 🎮 Goals & Vision
+
+Build dependable AI systems, deepen my systems engineering skills, and explore intelligent game experiences.
+
+<div align="center">
+
+![Animated build, learn, engineer terminal footer](assets/coding-footer.gif)
+
+**Always building. Always learning. Always engineering.**
+
+</div>

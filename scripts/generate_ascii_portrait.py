@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a photo-derived ASCII portrait and local typing animation.
+"""Generate a photo-derived ASCII portrait and local terminal animations.
 
 Requires Pillow: python -m pip install Pillow
 Run from any directory:
@@ -104,7 +104,7 @@ def portrait(photo: Path, out: Path, crop: list[float], columns: int, font_path:
             draw.text((16, height-25), f'> decoding {step*100//steps:02d}%_', font=small_font, fill=CYAN)
         else:
             frame = final.copy()
-        frames.append(indexed(frame)); durations.append(75 if step < steps else 2600)
+        frames.append(indexed(frame)); durations.append(110 if step < steps else 2600)
     for factor in [.8, .55, .3, .12]:
         frames.append(indexed(Image.blend(base, final, factor))); durations.append(90)
     frames[0].save(out/'ascii-portrait.gif', save_all=True, append_images=frames[1:],
@@ -128,6 +128,46 @@ def typing(out: Path, font_path: str | None) -> None:
                    duration=durations, loop=0, optimize=True, disposal=1)
 
 
+def accent(out: Path) -> None:
+    """A restrained terminal scan; GIF is supported by GitHub image rendering."""
+    frames = []
+    for step in range(32):
+        im = Image.new('RGB', (480, 12), BG)
+        d = ImageDraw.Draw(im)
+        d.line((0, 6, 479, 6), fill=(25, 45, 53))
+        for offset in range(-28, 29):
+            x = (step * 15 + offset) % 480
+            target = GREEN if x < 240 else CYAN
+            strength = (1 - abs(offset) / 29) * .8
+            d.point((x, 6), fill=tuple(round(c*strength) for c in target))
+        d.rectangle((0, 4, 2, 8), fill=(160, 133, 222))
+        frames.append(indexed(im))
+    frames[0].save(out/'terminal-accent.gif', save_all=True, append_images=frames[1:],
+                   duration=90, loop=0, optimize=True, disposal=1)
+
+
+def footer(out: Path, font_path: str | None) -> None:
+    face = font(13, font_path)
+    small = font(10, font_path)
+    frames, durations = [], []
+    lines = ['> build intelligent systems', '> learn through iteration', '> engineer real-world solutions']
+    for phase in range(4):
+        im = terminal((352, 140), 'manan@labs / next iteration', small)
+        d = ImageDraw.Draw(im)
+        for row, line in enumerate(lines[:phase]):
+            d.text((16, 48+row*24), line, font=face, fill=GREEN if row%2==0 else CYAN)
+        d.ellipse((329, 17, 334, 22), fill=GREEN if phase%2 else MUTED)
+        frames.append(indexed(im));durations.append(600 if phase<3 else 2600)
+    for phase in range(2):
+        im = frames[-1].convert('RGB')
+        d = ImageDraw.Draw(im)
+        d.rectangle((329, 17, 334, 22), fill=BG)
+        d.ellipse((329, 17, 334, 22), fill=GREEN if phase else MUTED)
+        frames.append(indexed(im));durations.append(500)
+    frames[0].save(out/'coding-footer.gif', save_all=True, append_images=frames[1:],
+                   duration=durations, loop=0, optimize=True, disposal=1)
+
+
 def main() -> None:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--photo', type=Path, default=ROOT.parent/'Snapchat-108467442.jpg')
@@ -145,7 +185,9 @@ def main() -> None:
     args.output.mkdir(parents=True, exist_ok=True)
     portrait(args.photo, args.output, args.crop, args.columns, args.font)
     typing(args.output, args.font)
-    for name in ['ascii-portrait.gif', 'ascii-portrait.png', 'typing-intro.gif']:
+    accent(args.output)
+    footer(args.output, args.font)
+    for name in ['ascii-portrait.gif', 'ascii-portrait.png', 'typing-intro.gif', 'terminal-accent.gif', 'coding-footer.gif']:
         print(f'{name}: {(args.output/name).stat().st_size:,} bytes')
 
 
